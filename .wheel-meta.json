@@ -1,0 +1,22 @@
+{
+  "wheel_id": 754,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-113",
+  "project": "earthmoving-contractors-toowoomba-myths-e5930eb7a3225a271d0d050",
+  "parent_t1_ref": "earthmovingtoowoomba-156",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving contractors toowoomba myths",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-contractors-toowoomba-myths-e5930eb7a3225a271d0d050/",
+  "tier": "T2",
+  "writeback_nonce": "6e7b337d5f81c7f9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-contractors-toowoomba-glossary-2d2d77feaced3fe6b5a8/",
+      "anchor": "the earthmoving contractors toowoomba glossary overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
